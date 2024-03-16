@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="925d2ef7-dcdb-40a0-837f-863cb56f24de" name="Changes" comment="Python_basics task">
-      <change afterPath="$PROJECT_DIR$/zad_1/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad_2/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad_2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad_3/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad_3/main.py" afterDir="false" />
+    <list default="true" id="925d2ef7-dcdb-40a0-837f-863cb56f24de" name="Changes" comment="Python_oop tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_1/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_1/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_2/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_2/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_3/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_3/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_3/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <updated>1709471720691</updated>
       <workItem from="1709471779957" duration="2943000" />
       <workItem from="1710074150707" duration="712000" />
-      <workItem from="1710623668609" duration="2202000" />
+      <workItem from="1710623668609" duration="2820000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709475667334</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Python_oop tasks">
+      <option name="closed" value="true" />
+      <created>1710625911609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710625911609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +163,8 @@
     <MESSAGE value="Initial commit 2" />
     <MESSAGE value="New branch &quot;Python typing&quot;" />
     <MESSAGE value="New branch &quot;Python basics&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="New branch &quot;Python basics&quot;" />
+    <MESSAGE value="Python_oop tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_oop tasks" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programowanie$main.coverage" NAME="main Coverage Results" MODIFIED="1710625886220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zad_3" />
