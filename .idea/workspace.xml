@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709473098109</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python_oop tasks">
+      <option name="closed" value="true" />
+      <created>1710626627334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710626627334</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,9 +135,10 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit 2" />
     <MESSAGE value="New branch &quot;Python typing&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="New branch &quot;Python typing&quot;" />
+    <MESSAGE value="Python_oop tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_oop tasks" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Programowanie$main.coverage" NAME="main Coverage Results" MODIFIED="1710076674838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programowanie$main.coverage" NAME="main Coverage Results" MODIFIED="1710625886220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zad_3" />
   </component>
 </project>

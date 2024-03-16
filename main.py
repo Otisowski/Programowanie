@@ -1,8 +1,9 @@
 def zad_1():
     name = input("Your name: ")
     surname = input("Your surname: ")
-    greeting = f"Cześć {name} {surname}!"
+    greeting = f"Hi {name} {surname}!"
     print(greeting)
+
 
 def zad_2():
     num_one = int(input("Enter first integer: "))
@@ -11,8 +12,10 @@ def zad_2():
     result = num_one * num_two
     print(f"The multiplication of {num_one} and {num_two} is {result}.")
 
+
 def is_even(number: int) -> bool:
     return number % 2 == 0
+
 
 def zad_3():
     num = int(input("Enter a number: "))
@@ -22,8 +25,10 @@ def zad_3():
     else:
         print(f"{num} is an odd number.")
 
+
 def is_sum_greater_or_equal(a: int, b: int, c: int) -> bool:
     return (a + b) >= c
+
 
 def zad_4():
     num1 = int(input("Enter first integer: "))
@@ -31,9 +36,12 @@ def zad_4():
     num3 = int(input("Enter third integer: "))
 
     if is_sum_greater_or_equal(num1, num2, num3):
-        print("The sum of the first two numbers is greater than or equal to the third number.")
+        print("The sum of the first two numbers is "
+              "greater than or equal to the third number.")
     else:
-        print("The sum of the first two numbers is less than the third number.")
+        print("The sum of the first two numbers "
+              "is less than the third number.")
+
 
 def contains_value(lst: list, value: int) -> bool:
     return value in lst
@@ -53,6 +61,7 @@ def zad_5():
         print(f"{value_not_in_list} is in the list.")
     else:
         print(f"{value_not_in_list} is not in the list.")
+
 
 def combine_lists(lst1: list, lst2: list) -> list:
     combined = lst1 + lst2
